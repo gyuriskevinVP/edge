@@ -1,0 +1,92 @@
+{
+  "bolt": [
+    {
+      "id": "1",
+      "name": "Tej",
+      "price": "349 Ft",
+      "desc": "zsírtartalom: 3,5% ",
+      "unit": "l",
+      "store": "10"
+    },
+    {
+      "id": "2",
+      "name": "Gyulai kolbász",
+      "price": "5349 Ft",
+      "desc": "Csípős ",
+      "unit": "kg",
+      "store": "100"
+    },
+    {
+      "id": "3",
+      "name": "Kenyér",
+      "price": "1100 Ft",
+      "desc": "Kovászos ",
+      "unit": "kg",
+      "store": "5"
+    },
+    {
+      "id": "4",
+      "name": "Kovászos uborka",
+      "price": "750 Ft",
+      "desc": "Kapros ",
+      "unit": "kg",
+      "store": "10"
+    },
+    {
+      "id": "5",
+      "name": "Sajt",
+      "price": "3500 Ft",
+      "desc": "Edámi",
+      "unit": "kg",
+      "store": "10"
+    },
+    {
+      "id": "6",
+      "name": "Vajkrém",
+      "price": "630 Ft",
+      "desc": "Zöld fűszeres",
+      "unit": "db",
+      "store": "20"
+    },
+    {
+      "id": "7",
+      "name": "Marlenka",
+      "price": "6000 Ft",
+      "desc": "Mézes;kakaós",
+      "unit": "db",
+      "store": "3"
+    },
+    {
+      "id": "20361855",
+      "name": "Tábla",
+      "desc": "zöld",
+      "price": "15000 Ft",
+      "unit": "db",
+      "store": "1"
+    },
+    {
+      "id": "667459775",
+      "name": "Radír",
+      "desc": "Elefántos",
+      "price": "200 Ft",
+      "unit": "darab",
+      "store": "10"
+    },
+    {
+      "id": "126573718",
+      "name": "Ceruza",
+      "desc": "2B",
+      "price": "230 Ft",
+      "unit": "darab",
+      "store": "100"
+    },
+    {
+      "id": 427474239,
+      "name": "Radiátor",
+      "desc": "Vizes",
+      "price": "200000 Ft",
+      "unit": "darab",
+      "store": "1"
+    }
+  ]
+}
